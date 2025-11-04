@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/hello-world.gif" alt="Hello World, Guess Who? It's Duy"/>
+  <a href="https://github.com/Duy-Nguyen-Van">
+    <img src="assets/hello-world.gif" alt="Hello World, Guess Who? It's Duy"/>
+  </a>
 </div>
 
 ---
